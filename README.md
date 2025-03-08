@@ -1,7 +1,7 @@
-# Layout YouTube 
+# Introdução  
 Este projeto tem por finalidade apresentar o um Layout de videos do Youtube contendo um video principal, e ao lado uma propaganda e uma coluna com os videos sugeridos com suas expecificações, como tempo desde a postagem, autor e nùmero de visualizações.
 
-## Layout
+## Layout YouTube
 <img src="./src/img/Design.png" alt="Design do projeto">
 
 ## Tecnologias 
